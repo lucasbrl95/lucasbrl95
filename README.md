@@ -10,15 +10,11 @@ Venho construindo minha base técnica por meio de formação contínua, cursos p
 
 **Linguagens & Frameworks:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Banco de Dados & Infraestrutura:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -26,8 +22,9 @@ Venho construindo minha base técnica por meio de formação contínua, cursos p
 
 ### 💻 Projetos em Destaque
 
-* 🔹 **[Sistema de Clientes](https://github.com/lucasbrl95/sistema-clientes)** — Aplicação desenvolvida em Java com foco no gerenciamento, persistência e estruturação de regras de negócio para cadastro de clientes.
-* 🔹 **[Relatório de Clientes](https://github.com/lucasbrl95/relatorio-clientes)** — Solução desenvolvida em Python para leitura, processamento e geração automatizada de relatórios a partir de dados de clientes.
+* 🔹 **[Sistema de Gestão de Clientes](https://github.com/lucasbrl95/sistema-clientes)** — CRUD completo em Java com menu interativo via terminal e persistência em banco de dados MySQL.
+
+* 🔹 **[Gerador de Relatório em PDF](https://github.com/lucasbrl95/relatorio-clientes)** — Script Python que lê clientes do MySQL e gera automaticamente um relatório em PDF com tabela formatada e data de geração.
 
 ---
 
