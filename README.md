@@ -26,9 +26,8 @@ Venho construindo minha base técnica por meio de formação contínua, cursos p
 
 ### 💻 Projetos em Destaque
 
-* 🔹 **[Poker Solver AI / Poker Web App](https://github.com/lucasbrl95/poker)** — Aplicação desenvolvida com TypeScript/Supabase com lógica estruturada e integração a APIs.
-* 🔹 **API RESTful com Spring Boot & Docker** — Implementação prática de CRUDs, segurança, conexão com banco relacional MySQL e conteinerização com Docker.
-* 🔹 **Aplicações e Scripts em Python** — Projetos práticos com foco em lógica de programação, manipulação de dados e automações.
+* 🔹 **[Sistema de Clientes](https://github.com/lucasbrl95/sistema-clientes)** — Aplicação desenvolvida em Java com foco no gerenciamento, persistência e estruturação de regras de negócio para cadastro de clientes.
+* 🔹 **[Relatório de Clientes](https://github.com/lucasbrl95/relatorio-clientes)** — Solução desenvolvida em Python para leitura, processamento e geração automatizada de relatórios a partir de dados de clientes.
 
 ---
 
