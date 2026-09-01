@@ -1,12 +1,12 @@
 # Olá, sou o Lucas Batista 👋
 
-Graduado em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNIP, com foco em desenvolvimento de software **Back-end** e arquitetura de sistemas.
+Graduado em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNIP e desenvolvedor com foco em **Back-end**. 
 
-Tenho experiência prática no desenvolvimento de APIs RESTful robustas, microsserviços, modelagem de banco de dados relacional e integração com ferramentas em nuvem. Busco minha primeira oportunidade profissional como Desenvolvedor Back-end / Software Engineer Jr.
+Venho construindo minha base técnica por meio de formação contínua, cursos práticos intensivos e desenvolvimento de projetos próprios. Busco minha primeira oportunidade como **Desenvolvedor Back-end Júnior** ou **Trainee**, focado em aprender com a equipe, escrever código limpo e agregar valor aos produtos da empresa.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas com as quais estudo e desenvolvo
 
 **Linguagens & Frameworks:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,11 +24,11 @@ Tenho experiência prática no desenvolvimento de APIs RESTful robustas, micross
 
 ---
 
-### 📌 Principais Projetos
+### 💻 Projetos em Destaque
 
-* 🔹 **[Poker Solver AI / Poker Web App](https://github.com/lucasbrl95/poker)** — Aplicação desenvolvida com TypeScript/Supabase com integração a APIs de processamento inteligente.
-* 🔹 **API RESTful com Spring Boot & Docker** — Backend completo com arquitetura em camadas, autenticação JWT, integração com MySQL e deploy/conteinerização. *(adicione o link do repositório)*
-* 🔹 **Automação & Processamento com Python** — Scripts e projetos práticos cobrindo tratamento de dados e lógica avançada. *(adicione o link do repositório)*
+* 🔹 **[Poker Solver AI / Poker Web App](https://github.com/lucasbrl95/poker)** — Aplicação desenvolvida com TypeScript/Supabase com lógica estruturada e integração a APIs.
+* 🔹 **API RESTful com Spring Boot & Docker** — Implementação prática de CRUDs, segurança, conexão com banco relacional MySQL e conteinerização com Docker.
+* 🔹 **Aplicações e Scripts em Python** — Projetos práticos com foco em lógica de programação, manipulação de dados e automações.
 
 ---
 
