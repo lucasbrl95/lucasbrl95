@@ -31,14 +31,6 @@ Venho construindo minha base técnica por meio de formação contínua, cursos p
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasbrl95&show_icons=true&theme=tokyonight" alt="Lucas's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrl95&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🌐 Conecte-se comigo
 
